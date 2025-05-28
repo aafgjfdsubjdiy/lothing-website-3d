@@ -1,0 +1,12 @@
+{
+  "name": "3d-clothing-website",
+  "version": "1.0.0",
+  "description": "Interactive 3D Clothing Website",
+  "scripts": {
+    "start": "serve src",
+    "build": "cp -r src/* dist/"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
